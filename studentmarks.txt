@@ -1,0 +1,6 @@
+andre onana,111,10,2,2,2,2,2
+maguire harry,112,20,5,5,2,2,6
+marcus rashford,113,5,1,1,1,1,1
+scot MCtominay,114,100,20,20,20,20,20
+bruno fernandes,115,40,8,8,8,8,8
+kobbie mainoo,116,30,5,5,3,2,15
